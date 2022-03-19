@@ -1,0 +1,161 @@
+[
+    {
+        "isIntroModule": true,
+        "courseTitle": "Introduction",
+        "sections": [
+            {
+                "type": "slide-quiz",
+                "introSlideTitle": "TEST YOUR KNOWLEDGE",
+                "introSlideText": "Complete the knowledge check to see what you learned. This will help you pass your final assessment.",
+                "questions": [
+                    {
+                        "titleText": "Multiple Choice",
+                        "questionText": "Which responsibilities are outlined in the “Protect, Respect, Remedy” framework established by the United Nations Guiding Principles on Business and Human Rights? Select all that apply.",
+                        "answerInstruction": "Select all that apply",
+                        "answers": [
+                            {
+                                "text": "All States have a duty to protect human rights",
+                                "index": 1,
+                                "id": "C1_Q1_R01"
+                            },
+                            {
+                                "text": "All businesses have a duty to challenge human rights",
+                                "index": 2,
+                                "id": "C1_Q1_R02"
+                            },
+                            {
+                                "text": "All businesses have a responsibility to respect human rights",
+                                "index": 3,
+                                "id": "C1_Q1_R03"
+                            },
+                            {
+                                "text": "States and businesses have a duty to provide remedy when human rights are infringed upon",
+                                "index": 4,
+                                "id": "C1_Q1_R04"
+                            }
+                        ],
+                        "confirmBtnText": "Submit",
+                        "correctAnswerID": [
+                            "C1_Q1_R01",
+                            "C1_Q1_R03",
+                            "C1_Q1_R04"
+                        ],
+                        "explainationTextHTML": "The <b>‘Protect, Respect, Remedy’</b> framework establishes that all States have a duty to protect human rights, <b>all businesses have a responsibility to respect human rights and together</b>, States and businesses have a duty to provide remedy when human rights are infringed upon. Following these principles is how businesses can contribute to the UN’s 2030 Sustainable Development Goals."
+                    },
+                    {
+                        "titleText": "True or False",
+                        "questionText": "Only well-known brands and large corporations have to adhere to international standards and respect human and labour rights of migrant workers.",
+                        "answerInstruction": "Select True or False",
+                        "answers": [
+                            {
+                                "text": "TRUE",
+                                "index": 1,
+                                "id": "C1_Q2_R01"
+                            },
+                            {
+                                "text": "FALSE",
+                                "index": 2,
+                                "id": "C1_Q2_R02"
+                            }
+                        ],
+                        "confirmBtnText": "Submit",
+                        "correctAnswerID": [
+                            "C1_Q2_R02"
+                        ],
+                        "explainationTextHTML": "<b>False.</b> Regardless of their size, sector, location, ownership or structure, <b>all businesses have the responsibility to adhere to international standards</b> for upholding the human and labour rights of migrant workers."
+                    }
+                ]
+            },
+            {
+                "type": "slide-text",
+                "title": "WELCOME",
+                "text": "This is a training course for business enterprises who are seeking practical guidance on how to recruit and employ migrant workers responsibly within their operations and supply chains.<br/><br/>This module is aligned with international human rights and labour standards, as well as frameworks on international migration. It is informed by IOM’s extensive experience working with governments, civil society, migrant workers and the private sector, as well as the collection of good practices by employers, labour recruiters and multinational enterprises."
+            },
+            {
+                "type": "slide-video",
+                "vimeoVideoID": "607528814",
+                "timestamps": [
+                    {
+                        "timestampInSeconds": 9,
+                        "timestampText": "Resource Pop-up",
+                        "resourceURL": "TODO",
+                        "resourceTitle": "Resource Title"
+                    },
+                    {
+                        "timestampInSeconds": 25,
+                        "timestampText": "Video Pop-up",
+                        "resourceURL": "TODO",
+                        "resourceTitle": "Video Title"
+                    }
+                ]
+            },
+            {
+                "type": "slide-key-takeaways",
+                "title": "KEY TAKEAWAYS",
+                "contentText": "Keep these things in mind when overseeing your company’s recruitment and deployment practices. These key takeaways will be available for download at the end of the learning experience.",
+                "takeaways": [
+                    {
+                        "id": "introTakeaway1",
+                        "textHTML": "In countries of destination, <b>migrant workers help fill critical labour shortages</b>, especially within the context of aging populations, as well as changing labour market trends and demographics.",
+                        "widthFactor": 440
+                    },
+                    {
+                        "id": "introTakeaway2",
+                        "textHTML": "There are <b>international standards</b> that identify specific responsibilities for employers to maintain ethical practices during all stages of the labour migration process.",
+                        "widthFactor": 440
+                    },
+                    {
+                        "id": "introTakeaway3",
+                        "textHTML": "Under the United Nations Guiding Principles on Business and Human Rights <b>‘Protect, Respect, Remedy’</b> framework, <b>all businesses have a responsibility to respect human rights</b>, and to address and prevent human rights abuses resulting from their business operations. This means that businesses need to be aware of the specific risks that vulnerable individuals, including migrant workers, may face during the labour migration process.",
+                        "widthFactor": 780
+                    },
+                    {
+                        "id": "introTakeaway4",
+                        "textHTML": "Most migrant workers have a positive labour migration experience, but in some cases, the labour migration process can be challenging—specifically for those in <b>lower-wage and informal sectors</b>.",
+                        "widthFactor": 440
+                    }
+                ]
+            },
+            {
+                "type": "course-trainers",
+                "sectionTitle": "MEET YOUR TRAINERS",
+                "sectionText": "These are subject matter experts from the IOM team. They will guide you through the labour migration process, explain the key ethical practices to keep in mind at each stage, and show you how to build a labour migration management system.",
+                "sectionDisclaimer": "Click to learn more about them.",
+                "trainers": [
+                    {
+                        "name": "Sashini Gomez",
+                        "id": "sashini",
+                        "pictureFileName": "trainer-sashini",
+                        "jobTitle": "Regional Policy and Liaison Officer",
+                        "location": "Regional Office for Asia and the Pacific, Bangkok, Thailand",
+                        "descriptionHTML": "Sashini has been with IOM since 2014 in various roles, including as part of the Regional Thematic Specialist Unit for Labour Mobility and Human Development in Asia and the Pacific. She has managed projects on ethical recruitment and labour migration, as well as several national and regional initiatives in Sri Lanka.<br/><br/>She obtained a master’s degree in development studies from the University of Colombo, as well as several post-graduate diplomas and certificates in the areas of international development, business and marketing, training and public speaking."
+                    },
+                    {
+                        "name": "Peppi Kiviniemi-Siddiq",
+                        "id": "peppi",
+                        "pictureFileName": "trainer-peppi",
+                        "jobTitle": "Senior Regional Thematic Specialist, Migrant Protection and Assistance",
+                        "location": "Regional Office for Asia and the Pacific, Bangkok, Thailand",
+                        "descriptionHTML": "Peppi has been with IOM since 2014. She has extensive experience managing IOM’s migrant protection portfolio, including projects on counter-trafficking, smuggling of migrants, assistance to migrants in vulnerable situations and voluntary return and reintegration. She also has experience in migrant policy, in issues such as remediation and repayment of recruitment fees, as well as ethical recruitment and employment practices in general.<br/><br/>Peppi previously worked at IOM’s country office in Bangladesh, leading their Rohingya response efforts. She holds a master’s degree in comparative politics and a bachelor’s in international relations from the London School of Economics and Political Science."
+                    },
+                    {
+                        "name": "Alexandra Chan",
+                        "id": "alexandra",
+                        "pictureFileName": "trainer-alexandra",
+                        "jobTitle": "Senior Project Officer",
+                        "location": "China Sub-Office, Hong Kong, China",
+                        "descriptionHTML": "Alexandra has been with IOM since 2019. She currently leads and coordinates programming for labour migration and human development in Thailand and the region. This includes liaising for a wide range of public-private partnerships with multinational corporations, private recruitment agencies, business associations, authorities, civil society organizations, workers-based community groups and employers, in order to promote the ethical recruitment and employment of migrant workers.<br/><br/>An experienced facilitator, Alexandra has also delivered ethical recruitment training to over 50 private recruitment agencies and suppliers of multinational corporations. She holds a degree in social sciences and international human rights law."
+                    },
+                    {
+                        "name": "Among Resi",
+                        "id": "among",
+                        "pictureFileName": "trainer-among",
+                        "jobTitle": "Project Officer, Ship to Shore Project",
+                        "location": "Regional Office for Asia and the Pacific, Bangkok, Thailand",
+                        "descriptionHTML": "Among has been with IOM since 2014. She currently leads the Ship to Shore Project, a multi-country project funded by European Union and implemented jointly by ILO-IOM-UNDP, which promotes regular and safe labour migration among South East Asian countries, in particular in the fishing and seafood processing industry. Before this, Among worked with IOM Indonesia as head of the Counter Trafficking and Labor Migration Unit, where she managed 10 projects on labour migration policy, protection of migrant workers and counter trafficking.<br/><br/>She also worked with the International Labour Organization (ILO) country office in Indonesia, for the SEA Fisheries project, a regional project to strengthen coordination to combat labour exploitation and trafficking in fisheries in Southeast Asia. Among holds a master’s degree in maritime security from Coventry University, United Kingdom."
+                    }
+                ]
+            }
+        ]
+    }
+]
